@@ -141,3 +141,7 @@ data/processed/dataset_modelo.csv
 ## Conclusión
 
 El árbol de decisión puede utilizarse como herramienta de apoyo para identificar procesos con riesgo de finalizar sin adjudicación. Su precisión es elevada, aunque debe complementarse con revisión humana y con nuevas extracciones de datos para mejorar su capacidad de detección.
+
+## Video de presentación
+
+[Ver presentación final en YouTube]https://youtu.be/yKXwdy_SY8E
